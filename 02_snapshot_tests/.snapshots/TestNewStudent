@@ -1,0 +1,5 @@
+(main.student) {
+  id: (string) (len=8) "erica-22",
+  name: (string) (len=5) "erica",
+  age: (int) 22
+}
